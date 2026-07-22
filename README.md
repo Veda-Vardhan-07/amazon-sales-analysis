@@ -14,7 +14,6 @@ The project demonstrates the complete workflow of a Data Analyst, including:
 - Data Exploration
 - Data Visualization
 - Business Insights
-- Business Recommendations
 
 ---
 
